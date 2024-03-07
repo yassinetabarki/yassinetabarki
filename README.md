@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yassinetabarki
 - 👀 I’m interested in Full Stack development / big data / data engineering  
-- 🌱 I’m currently learning python / elasticsearch / spark / airflow / kafka 
+- 🌱 I’m currently learning java spring / react / elasticsearch / spark / kafka 
 
 
 <!---
